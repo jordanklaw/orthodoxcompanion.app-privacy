@@ -20,15 +20,15 @@ App distribution platforms, device manufacturers, and operating system providers
 
 Orthodox Companion is designed to operate without requiring users to provide personal information in order to access its core functionality.
 
-- The App is designed to function without transmitting user-generated content to external servers.
+- The app is designed to function without transmitting user-generated content to external servers.
 
-- This app does not require account creation, login, or registration to use its current features.
+- Orthodox Companion does not require account creation, login, or registration to use its current features.
 
 ---
 
 ## Local Device Data
 
-Orthodox Companion stores certain settings locally on your device using standard on-device storage. This may include:
+This app stores certain settings locally on your device using standard on-device storage. This may include:
 
 - Reading font size preference
 
