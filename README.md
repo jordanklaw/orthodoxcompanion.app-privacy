@@ -2,7 +2,7 @@
 
 **Last updated:** February 2026
 
-Orthodox Companion is built with care for your privacy. Spiritual practice is personal, and the app is designed to reflect that same sense of responsibility and restraint.
+Orthodox Companion is built with your privacy in mind. Spiritual practice is personal, and the app is designed to reflect that same sense of responsibility and restraint.
 
 This Privacy Policy describes how Orthodox Companion (“the App”) handles information in connection with its operation.
 
