@@ -2,7 +2,7 @@
 
 **Last updated:** February 2026
 
-English:
+**English:**
 
 Orthodox Companion is built with your privacy in mind. Spiritual practice is personal, and the app is designed to reflect that same sense of responsibility and restraint.
 
@@ -113,7 +113,7 @@ If you have questions regarding this Privacy Policy, you may contact:
 
 ---
 
-Русский
+**Русский:**
 
 # Политика конфиденциальности
 
